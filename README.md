@@ -1,6 +1,5 @@
 # University-Registration-System
 A University Department needs a set of interfaces and classes to manage student data.
-A University Department needs a set of interfaces and classes to manage student data.
 The Department has different types of students. These are undergraduate (UG), postgraduate
 taught (PGT) and postgraduate research (PGR) students. Students cannot be more than one
 type. For this coursework, the significant difference between undergraduate and postgraduate
